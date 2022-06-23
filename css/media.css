@@ -1,0 +1,437 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+/* header start    */
+header {
+    padding-bottom: 60px;
+}
+
+.nav_c {
+padding: 30px 0px 0px;
+}
+/* bannar start */
+.b_text {
+margin-top: 50px;
+text-align: center;
+}
+.b_h1 {
+margin: 10px 0 10px;
+font-size: 28px;
+line-height: 40px;
+
+}
+
+.p_black {
+
+padding: 0;
+}
+.bannar-buttom {
+}
+.b_button {
+
+margin: 50px 10px 0 10px;
+padding: 12px 10px;
+
+}
+
+/* product */
+.c_title {
+padding: 40px 0;
+}
+.c_h1 {
+
+font-size: 28px;
+
+}
+.s_product {
+margin: 40px 29px 0 29px;
+}
+/* beautiful */
+.bd_title {
+text-align: center;
+margin: -30px 0 -35px 0;
+}
+.bd_text {
+
+text-align: center;
+
+}
+.bd_h1 {
+font-size: 30px;
+}
+.bd_text p {
+padding: 18px 0px 0;
+
+}
+.bd-img img{
+padding: 0 50px;
+}
+.beautiful_d {
+margin-top: 20px;
+padding-bottom: 30px;
+}
+/* cutomize start */
+.cutome_h1{
+font-size: 28px;
+}
+.custom_t {
+padding-right: 0px;
+margin-top: 25px;
+text-align: center;
+}
+/* pricing start */
+.pricing_title {
+
+margin: 0px 0 -35px 0;
+}
+.person1p {
+margin: 0 0px;
+margin-right: 0;
+font-size: 17px;
+text-align: center;
+}
+.people {
+
+padding: 18px 20px;
+}
+/* theme start */
+.theme {
+padding: 0 0 40px 0;
+}
+.theme_text {
+margin: 35px 0px 35px 0;
+text-align: center;
+}
+.theme_text h2 {
+font-size: 27px;
+
+}
+.theme_text span{
+font-size: 27px;
+}
+.theme_buttom {
+margin: 0 0 0 0px;
+}
+.theme-b {
+margin: 0px 10px 0 10px;
+padding: 10px 0;
+
+}
+}
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/* header start    */
+.nav_c {
+padding: 30px 0px 0px;
+}
+/* bannar start */
+.b_text {
+margin-top: 50px;
+text-align: center;
+}
+.b_h1 {
+margin: 10px 0 10px;
+font-size: 32px;
+line-height: 40px;
+
+}
+
+.p_black {
+
+padding: 0px 30px 0 30px;
+}
+.bannar-buttom {
+margin: 0 65px 0 65px;
+}
+.b_button {
+margin-top: 40px;
+}
+/* product */
+.s_product {
+margin: 35px 70px 0 70px;
+}
+/* beautiful */
+.bd_title {
+text-align: center;
+margin: -30px 0 -35px 0;
+}
+.bd_text {
+
+text-align: center;
+
+}
+.bd-img img {
+padding: 0 120px;
+}
+.bd_text p {
+padding: 0px 20px;
+
+}
+.beautiful_d {
+margin-top: 20px;
+padding-bottom: 50px;
+}
+/* cutomize start */
+.custom_t {
+padding-right: 0px;
+text-align: justify;
+}
+.custome_img img {
+padding: 0 60px;
+}
+/* pricing start */
+.person1p {
+margin: 0 0px;
+margin-right: 0;
+text-align: center;
+}
+.pricing_title {
+
+margin: -10px 0 -35px 0;
+}
+.people {
+
+padding: 18px 130px;
+}
+/* theme start */
+.theme {
+padding: 0 0 40px 0;
+}
+.theme_text {
+margin: 35px 0px 35px 0;
+}
+.theme_text h2 {
+font-size: 27px;
+
+}
+.theme_text span{
+font-size: 27px;
+}
+.theme_buttom {
+margin: 0 80px;
+}
+.theme-b {
+margin-top: 0;
+padding: 12px 22px;
+}
+}
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/* header start    */
+.nav_c {
+padding: 30px 0px 0px;
+}
+/* bannar start */
+.b_text {
+margin-top: 70px;
+text-align: center;
+}
+.b_h1 {
+
+font-size: 42px;
+
+}
+.p_black {
+
+padding: 0px 30px 0 30px;
+}
+.bannar-buttom {
+margin: 0px 155px 0 155px;
+}
+.b_button {
+margin-top: 50px;
+}
+/* product */
+.s_product {
+margin: 35px 29px 0 29px;
+}
+.s_product {
+margin: 30px 29px 0 29px;
+}
+.c_title {
+padding: 50px 0 30px;
+}
+/* beautiful */
+.bd_title {
+text-align: center;
+}
+.bd_text {
+
+text-align: center;
+
+}
+.bd_text p {
+padding: 0px 80px;
+
+}
+.bd-img img{
+padding: 0 200px;
+}
+.beautiful_d {
+margin-top: 20px;
+padding-bottom: 50px;
+}
+/* cutomize start */
+.customize_title{
+padding: 20px 0 30px;
+}
+
+.custom_text {
+margin: 0 50px;
+text-align: justify;
+}
+.custome_img {
+padding: 0 130px;
+}
+/* pricing start */
+.person1p {
+margin: 0 30px;
+margin-right: 0;
+text-align: center;
+}
+.people {
+
+padding: 18px 223px;
+}
+/* theme start */
+.theme {
+padding: 0 0 40px 0;
+}
+.theme_text {
+margin: 35px 0px 35px 0;
+}
+.theme_buttom {
+margin: 0 170px;
+}
+.theme-b {
+margin-top: 0;
+padding: 12px 20px;
+}
+}
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+/* header start  */
+.nav_c {
+padding: 40px 0px 0px 0px;
+}
+/* bannar start */
+.b_text {
+margin-top: -80px;
+}
+.b_h1 {
+font-size: 36px;
+}
+.p_black {
+padding-right: 0px;
+}
+.b_button {
+margin: 70px 10px 0 10px;
+}
+/* product */
+.c_title {
+padding: 35px 0;
+}
+.c_h1 {
+
+font-size: 29px;
+
+}
+.s_product {
+margin: 50px 16px 0 16px;
+}
+/* beautiful */
+.bd_text p {
+padding: 0px 0px 0 0;
+
+}
+.bd_title {
+margin-top: -20px;
+}
+.bd_text {
+margin-bottom: 28px;
+}
+.c_date ul {
+line-height: 30px;
+}
+/* customize start */
+.customize {
+padding-bottom: 50px;
+}
+.custom_t {
+padding-right: 0px;
+}
+/* pricing start */
+.pricing_title{
+margin: 25px 0 19px;
+}
+.person1p {
+margin-right: 15px;
+font-size: 20px;
+
+}
+/* theme start */
+.theme_text {
+margin: 56px 0px 70px 0;
+}
+.theme_text h2 {
+font-size: 28px;
+}
+.theme_text span{
+font-size: 28px;
+}
+.theme-b{
+margin: 10px 10px 0 10px;
+}
+}
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+/* bannar start */
+.b_h1 {
+font-size: 40px;
+
+}
+.p_black {
+padding-right: 0px;
+}
+/* prduct */
+.c_title {
+padding: 40px 0;
+}
+.c_h1 {
+
+font-size: 34px;
+
+}
+/* customize start */
+.customize {
+padding-bottom: 50px;
+
+}
+.customize_title {
+margin-top: 25px;
+}
+.custom_t {
+padding-right: 0px;
+}
+/* theme start */
+.theme_text {
+margin: 70px 0px 70px 0;
+}
+.theme_text h2 {
+font-size: 30px;
+}
+.theme_text span{
+font-size: 30px;
+}
+
+.theme_buttom {
+    margin: 25px 0 0 0px;
+}
+
+}
+/* Extra Extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {
+
+}

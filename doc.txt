@@ -1,0 +1,76 @@
+Home       Features       About       Testimonials       Pricing       Contact
+
+introducing lucid theme
+Carefully crafted and beautiful landing page.
+Etiam ullamcorper et turpis eget hendrerit. Praesent varius risus mi, at elementum magna ultricies accumsan. Cras venenatis lacus sed dolor placerat tempus. Morbi blandit at neque ut imperdiet.
+
+
+product overview
+List of amazing features
+
+Responsive
+Fusce fermentum placerat magna ac pharetra. Aliquam euismod elit non ipsum lacinia consectetur.
+
+
+
+       Awesome design
+       Fully responsive
+       Retina ready
+       Tons of features and easy to use         Dean Winchester
+UX DESIGNER, GOOGLE INC.
+
+
+quality has its price
+Pricings & Plans
+
+
+
+
+       dip into the details
+Super easy to customize
+
+Duis sed odio sit amet nibh vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec tellus a odio tincidunt auctor a ornare odio. Sed non  mauris vitae erat consequat auctor eu in elit. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos.
+
+
+font-family: Quicksand-bold
+font-family: sourcesanspro
+
+
+                             xxl/xl/lg               md                sm/col
+ header---------------
+ padding-bottom:                100                  80                  60
+ bannar text mt                 -120                                       
+ p size                          14                                       
+ h1                              48                                       
+ prosuct------------------
+
+
+ padding                        60
+
+
+
+
+ <ul class="list-inline m-0">
+                    <li class="list-inline-item">
+                      <img src="img/icon2.png" class="img-fluid" alt=" E-School">
+                    </li>
+                    <li class="list-inline-item">
+                      <span>Fully responsive</span>
+                    </li>
+                  </ul>
+                  <ul class="list-inline m-0">
+                    <li class="list-inline-item">
+                      <img src="img/icon3.png" class="img-fluid" alt=" E-School">
+                    </li>
+                    <li class="list-inline-item">
+                      <span>Retina ready</span>
+                    </li>
+                  </ul>
+                  <ul class="list-inline m-0">
+                    <li class="list-inline-item">
+                      <img src="img/icon4.png" class="img-fluid" alt=" E-School">
+                    </li>
+                    <li class="list-inline-item">
+                      <span>Tons of features and easy to use</span>
+                    </li>
+                  </ul>
